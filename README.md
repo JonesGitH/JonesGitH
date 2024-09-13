@@ -55,6 +55,6 @@ My journey in Information Tech has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>
-- Hack The Box
+- <a href="https://app.hackthebox.com/profile/2006645">Hack The Box</a>
 - Try Hackme
   
