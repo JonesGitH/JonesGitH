@@ -13,7 +13,7 @@ My journey in Information Tech has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>|
 | Scripting and Automation Threat Mitigation    | <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>|
-| Network Traffic Monitoring Attack Detection   | <a href="Https://hackthebox.com">Hack The Box</a>|
+| Network Traffic Monitoring Attack Detection   | <a href="https://app.hackthebox.com/profile/2006645">Hack The Box</a>
 
 
 
@@ -56,5 +56,5 @@ My journey in Information Tech has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>
 - <a href="https://app.hackthebox.com/profile/2006645">Hack The Box</a>
-- Try Hackme
+- <a href="https://tryhackme.com/p/Tuari">Try HackMe</a>
   
