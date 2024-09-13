@@ -11,9 +11,10 @@ My journey in Information Tech has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Home Automation Lab |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>|
+| Scripting and Automation Threat Mitigation    | <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>|
 | Network Traffic Monitoring Attack Detection   | <a href="Https://hackthebox.com">Hack The Box</a>|
-| Scripting and Automation Threat Mitigation    | Home Automation Lab |
+
 
 
 ## Tools
@@ -53,7 +54,7 @@ My journey in Information Tech has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Home Automation Lab
+- <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>
 - Hack The Box
 - Try Hackme
   
