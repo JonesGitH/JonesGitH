@@ -5,7 +5,7 @@ An experienced Infrastructure Technician transitioning into cybersecurity, with 
 
 ## Objective
 
-My journey in Information Tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming at Incident Response or Security Operations Center (SOC) Analyst
+My journey in Information Tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming at Incident Response or Security Operations Center (SOC) Analyst.
 
 ## Skills
 
