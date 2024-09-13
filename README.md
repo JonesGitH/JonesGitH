@@ -1,11 +1,11 @@
 # Hello, I'm Alex
 <a href="[https://linkedin.com](https://www.linkedin.com/in/alexajones/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-An experienced Infrastructure Technician transitioning into cybersecurity, with a strong foundation in network architecture, system vulnerabilities, IT best practices, leadership, and a passion for applying my skills in security.
+I am an experienced Infrastructure Technician transitioning into cybersecurity, with a strong background in network architecture, system vulnerabilities, IT best practices, and leadership. I am passionate about applying these skills to strengthen security measures and protect organizations from evolving cyber threats.My journey in information technology has sparked a deep interest in cybersecurity, driving my desire to pursue a career in this field. I am particularly focused on transitioning into roles such as Incident Response or Security Operations Center (SOC) Analyst, where I can utilize my technical expertise to identify, respond to, and mitigate security incidents.
 
 ## Objective
 
-My journey in Information Tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming at Incident Response or Security Operations Center (SOC) Analyst.
+My journey in information technology has sparked a deep interest in cybersecurity, driving my desire to pursue a career in this field. I am particularly focused on transitioning into roles such as Incident Response or Security Operations Center (SOC) Analyst, where I can utilize my technical expertise to identify, respond to, and mitigate security incidents.
 
 ## Skills
 
