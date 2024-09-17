@@ -57,4 +57,6 @@ My journey in information technology has sparked a deep interest in cybersecurit
 - <a href="https://github.com/JonesGitH/Home-Automation-Lab/tree/main">Home Automation Lab</a>
 - <a href="https://app.hackthebox.com/profile/2006645">Hack The Box</a>
 - <a href="https://tryhackme.com/p/Tuari">Try HackMe</a>
-  
+
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Tuari.png" alt="TryHackMe">
