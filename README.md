@@ -58,5 +58,6 @@ My journey in information technology has sparked a deep interest in cybersecurit
 - <a href="https://app.hackthebox.com/profile/2006645">Hack The Box</a>
 - <a href="https://tryhackme.com/p/Tuari">Try HackMe</a>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=607966" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Tuari.png" alt="Your Image Badge" />
+
 
